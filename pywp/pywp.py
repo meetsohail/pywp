@@ -37,4 +37,3 @@ def main():
         f.write(wordpress.content)
 
     sys.exit('Successfull installed website, Now visit your URL.')
-    # unzip('wordpress.zip')`
